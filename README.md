@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -30,7 +30,7 @@
   .nav-name { font-family: 'Cinzel', serif; font-size: 1rem; font-weight: 700; color: var(--gold-light); line-height: 1.2; }
   .nav-name span { display: block; font-size: 0.65rem; color: var(--silver); font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; }
   nav ul { list-style: none; display: flex; gap: 2rem; }
-  nav ul a { text-decoration: none; color: #FFFFFF; font-size: 0.85rem; font-weight: 600; transition: color 0.2s; letter-spacing: 0.05em; cursor: pointer; text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+  nav ul a { text-decoration: none; color: var(--silver-light); font-size: 0.85rem; font-weight: 500; transition: color 0.2s; letter-spacing: 0.05em; cursor: pointer; }
   nav ul a:hover { color: var(--gold-glow); }
   .give-btn {
     background: linear-gradient(135deg, var(--gold), var(--gold-light));
@@ -337,7 +337,7 @@
     <div class="pastor-card">
       <div class="pastor-avatar">✝</div>
       <div class="pastor-name">Apostle & Rev'd Mrs. Phil Ihegazie</div>
-      <div class="pastor-title">Senior Pastors — Coming King Mission Worldwide</div>
+      <div class="pastor-title">Senior Pastor — Coming King Mission Worldwide</div>
       <p>As we await the return of the Coming King, we remain steadfast in our commitment to spreading the message of salvation, encouraging holy living, and building a generation that is prepared to meet the Lord. Through our teachings, outreaches, conferences, and various ministry programs, we seek to transform lives by the power of God's Word and the work of the Holy Spirit.</p>
     </div>
   </section>
