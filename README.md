@@ -30,7 +30,7 @@
   .nav-name { font-family: 'Cinzel', serif; font-size: 1rem; font-weight: 700; color: var(--gold-light); line-height: 1.2; }
   .nav-name span { display: block; font-size: 0.65rem; color: var(--silver); font-weight: 400; letter-spacing: 0.15em; text-transform: uppercase; }
   nav ul { list-style: none; display: flex; gap: 2rem; }
-  nav ul a { text-decoration: none; color: var(--silver-light); font-size: 0.85rem; font-weight: 500; transition: color 0.2s; letter-spacing: 0.05em; cursor: pointer; }
+  nav ul a { text-decoration: none; color: #FFFFFF; font-size: 0.85rem; font-weight: 600; transition: color 0.2s; letter-spacing: 0.05em; cursor: pointer; text-shadow: 0 1px 4px rgba(0,0,0,0.5);
   nav ul a:hover { color: var(--gold-glow); }
   .give-btn {
     background: linear-gradient(135deg, var(--gold), var(--gold-light));
