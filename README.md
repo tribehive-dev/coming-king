@@ -337,7 +337,7 @@
     <div class="pastor-card">
       <div class="pastor-avatar">✝</div>
       <div class="pastor-name">Apostle & Rev'd Mrs. Phil Ihegazie</div>
-      <div class="pastor-title">Senior Pastor — Coming King Mission Worldwide</div>
+      <div class="pastor-title">Senior Pastors — Coming King Mission Worldwide</div>
       <p>As we await the return of the Coming King, we remain steadfast in our commitment to spreading the message of salvation, encouraging holy living, and building a generation that is prepared to meet the Lord. Through our teachings, outreaches, conferences, and various ministry programs, we seek to transform lives by the power of God's Word and the work of the Holy Spirit.</p>
     </div>
   </section>
